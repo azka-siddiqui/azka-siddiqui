@@ -1,5 +1,5 @@
 Hey there, I'm Azka Siddiqui 👋
-I'm a high school student and a self-taught software developer in Toronto, Ontario.
+I'm a high school student and a self-taught software developer in Mississauga, Ontario.
 
 💬 My favourite programming language is Java ☕  
 
