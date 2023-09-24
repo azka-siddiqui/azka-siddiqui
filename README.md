@@ -20,6 +20,6 @@
         }
         
         if __name__ == "__main__":
-            me = Ganning()
+                me = Azka()
 
 
