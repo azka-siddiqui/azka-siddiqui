@@ -4,7 +4,6 @@
     def __init__(self):
         self.name = "Azka Siddiqui"
         self.school = "St. Joseph Secondary School"
-        self.vscode_theme = "After Dark" #I love this color theme and thought it was important to mention :)
         self.code = {
             "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "Tailwind CSS", "HTML", "CSS"],
             "backend": ["Python", "Node.js", "Java", "Azure Functions", "PostgreSQL", "AWS Lambda", "C"],
