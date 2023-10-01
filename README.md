@@ -6,7 +6,7 @@
         self.school = "St. Joseph Secondary School"
         self.code = {
             "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "Tailwind CSS", "HTML", "CSS"],
-            "backend": ["Python", "Node.js", "Java", "Azure Functions", "PostgreSQL", "AWS Lambda", "C"],
+            "backend": ["Python", "Node.js", "Java", "PostgreSQL", "C"],
             "mobile": ["React Native"],
             "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux"]
         }
