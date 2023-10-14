@@ -10,7 +10,7 @@
             "mobile": ["React Native"],
             "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux"]
         }
-        self.description = "I'm a junior with a passion for CS and Robotics. 🙂 I love making fun and random applications, or building websites for nonprofits and local businesses! Feel free to reach out and say hello :)"
+        self.description = "I'm a Grade 11 student with a passion for CS and Robotics. 🙂 I love making fun and random applications, or building websites for nonprofits and local businesses! Feel free to reach out and say hello :)"
         
         def get_contacts(self):
         return {
