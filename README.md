@@ -41,7 +41,7 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
 * 😄 Pronouns: `She/Her/Hers`
 
 * 🌱 Involvement: Computer Science Club Executive, Math Club, Women in Computer Science, Robotics Programming Lead, VP of The Mirror school newspaper.
-* 🏆 Some awards: hEr Volution STEM Scholarship ($1,000), 4x Academic Achievement Awardee, NCWIT Hon. Mention, CAN-CWiC Scholar, Women in IT Summit Scholar
+* 🏆 Some awards: hEr Volution STEM Scholarship ($1,000), 4x Academic Achievement Awardee, NCWIT Hon. Mention, Mayor's Award of Recognition (500+ hours dedicated to community service and leadership)
 * 🌍 Fun Fact: I speak 4 different languages!
 * 👩‍🍳 More Fun Facts: Part-time cooking aficionado 
 * 🔬 Ask me about... my involvement in facilitating STEM & gender equity in tech
