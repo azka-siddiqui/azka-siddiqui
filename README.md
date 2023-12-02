@@ -40,11 +40,10 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
 ### Learn More 🤩
 * 😄 Pronouns: `She/Her/Hers`
 
-* 🌱 Involvement: Computer Science Club Executive, Mathematics Society Board of Directors, Women in Computer Science, Tech+ UW, Data Science Club, Chinese Christian Fellowship, Undergraduate Academic Plans Committee Undergrad Rep.
-* 🌎 Hackathon Ws: **Hack the North 2023 Winner**, 1st Place Scotiabank x UWaterloo Data Science/AI Hackathon, NASA International Space Apps Global Nominee, 2x Hack the North Pearl Sullivan Finalist; 🤵‍♀️ Deltahacks 9 Judge, hack::peel Judge, TurtleHacks Judge
-* 🏆 Life Ws: Schulich Leader Scholarship ($80,000), National Math Scholarship ($15,000), President's Scholarship of Distinction ($2,000), National Math Champion (Cayley 2021), MPP Fife's Leading Girls Leading Women Recognition Program, KW Women of the Year Nominee, CAN-CWiC Scholar, Women in IT Summit Scholar
-* 🥋 Fun Fact: I have a black belt in karate!
-* ✈️ More Fun Facts: Part-time aviation geek & 13 countries visited ❤️
-* 🩸 Ask me about... my involvement in politics & menstrual equity :D
+* 🌱 Involvement: Computer Science Club Executive, Math Club, Women in Computer Science, Robotics Programming Lead, VP of The Mirror school newspaper.
+* 🏆 Some awards: hEr Volution STEM Scholarship ($1,000), 4x Academic Achievement Awardee, NCWIT Hon. Mention, MPP Fife's Leading Girls Leading Women Recognition Program, CAN-CWiC Scholar, Women in IT Summit Scholar
+* 🌍 Fun Fact: I speak 4 different languages!
+* 👩‍🍳 More Fun Facts: Part-time cooking aficionado ❤️
+* 🔬 Ask me about... my involvement in facilitating STEM & gender equity in tech
 
         
