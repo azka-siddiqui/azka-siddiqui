@@ -45,4 +45,5 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
 * 🌍 Fun Fact: I am quadrilingual and an avid traveler!
 * 🔬 Ask me about... my involvement in facilitating STEM & gender equity in tech
 
+
         
