@@ -43,7 +43,6 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
 * 🌱 Involvement: Math Club, FRC Robotics Programming Subdivision, VP of The Mirror school newspaper, and more
 * 🏆 Some awards: hEr Volution STEM Scholarship ($1,000), 4x Academic Achievement Awardee, NCWIT Hon. Mention, Mayor's Award of Recognition (500+ hours dedicated to community service and leadership)
 * 🌍 Fun Fact: I am quadrilingual and an avid traveler!
-* 👩‍🍳 More Fun Facts: Part-time cooking aficionado 
 * 🔬 Ask me about... my involvement in facilitating STEM & gender equity in tech
 
         
