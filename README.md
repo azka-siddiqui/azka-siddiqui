@@ -3,7 +3,7 @@
 I'm Azka, an aspiring software engineer passionate about sustainability, data, AI, and more. 
 
 ### My Tech Stack 💻
-✨ Languages ✨  <br>  <br> 
+Languages  <br>  <br> 
 ![C++](https://img.shields.io/badge/C++-%23007ACC.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23F24E1E.svg?style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%2338B2AC.svg?style=for-the-badge&logo=java-css&logoColor=white)
@@ -17,7 +17,7 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
 ![CSS](https://img.shields.io/badge/CSS-%23E4405F.svg?style=for-the-badge&logo=CSS&logoColor=white"alt="CSS")
 
 
-✨ Tools/Frameworks ✨ 
+Tools/Frameworks  
 
 ![Linux](https://img.shields.io/badge/Linux-%2320232a.svg?style=for-the-badge&logo=Linux&logoColor=%2361DAFB)
 ![Bash](https://img.shields.io/badge/Bash-%230175C2.svg?style=for-the-badge&logo=Bash&logoColor=white)
@@ -28,7 +28,7 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23F24E1E.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-039BE5?style=for-the-badge&logo=PySpark&logoColor=#FFCB33)
 
-### Contact Me ✌️
+### Contact Me 
 <a href="https://www.linkedin.com/in/azkasiddiqui/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -37,8 +37,8 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Email&logoColor=white" alt="Email"/>
 </a>
 
-### Learn More 🤩
-* 😄 Pronouns: `She/Her/Hers`
+### Learn More 
+* Pronouns: `She/Her/Hers`
 
 * 🌱 Involvement: Math Club, FRC Robotics Programming Subdivision, VP of The Mirror school newspaper, and more
 * 🏆 Some awards: hEr Volution STEM Scholarship ($1,000), 4x Academic Achievement Awardee, NCWIT Hon. Mention, Mayor's Award of Recognition (500+ hours dedicated to community service and leadership)
