@@ -37,13 +37,6 @@ Tools/Frameworks
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Email&logoColor=white" alt="Email"/>
 </a>
 
-### Learn More 
-* Pronouns: `She/Her/Hers`
-
-* 🌱 Involvement: Math Club, FRC Robotics Programming Subdivision, VP of The Mirror school newspaper, and more
-* 🏆 Some awards: hEr Volution STEM Scholarship ($1,000), 4x Academic Achievement Awardee, NCWIT Hon. Mention, Mayor's Award of Recognition (500+ hours dedicated to community service and leadership)
-* 🌍 Fun Fact: I am quadrilingual and an avid traveler!
-* 🔬 Ask me about... my involvement in facilitating STEM workshops & gender equity in tech
 
 
         
