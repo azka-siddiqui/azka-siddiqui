@@ -12,7 +12,7 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
 #### About Me 
 - 🔭 Going deep into ML specifically deep learning 
 - 🌱 Learning more about Blockchain and Web 3 development
-- 👩‍💻 Doing ML research @ UofT on smart grid security systems and anomaly detection
+- 👩‍💻 Doing research @ UofT on smart grid security systems and anomaly detection using machine learning
 - 😄 Pronouns: She/Her
 
 ### My Tech Stack 💻
