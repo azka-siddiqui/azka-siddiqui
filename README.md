@@ -2,15 +2,18 @@
 
 I'm Azka, an aspiring software engineer passionate about sustainability, data, AI, and more. 
 
-Previously
-Developer @ The Fregenet Foundation
-Project Intern @ Youth Culture
-IOS Dev @ Our Wave Hub
+#### Previously 
+<ul>
+  <li>Developer @ The Fregenet Foundation</li>
+  <li>Project Intern @ Youth Culture/li>
+  <li>IOS Dev @ Our Wave Hub</li>
+</ul>
 
-About Me
-🔭 Going deep into ML specifically deep learning
-🌱 Obsessed with Blockchain and Web 3 development
-😄 Pronouns: She/Her
+#### About Me 
+- 🔭 Going deep into ML specifically deep learning 
+- 🌱 Learning more about Blockchain and Web 3 development
+- 👩‍💻 Doing ML research @ UofT on smart grid security systems and anomaly detection
+- 😄 Pronouns: She/Her
 
 ### My Tech Stack 💻
 Languages  <br>  <br> 
