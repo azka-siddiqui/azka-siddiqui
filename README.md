@@ -5,7 +5,7 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
 #### Previously 
 <ul>
   <li>Developer @ The Fregenet Foundation</li>
-  <li>Project Intern @ Youth Culture/li>
+  <li>Project Intern @ Youth Culture</li>
   <li>IOS Dev @ Our Wave Hub</li>
 </ul>
 
