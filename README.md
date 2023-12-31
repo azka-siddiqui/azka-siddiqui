@@ -1,6 +1,16 @@
-# Hi there! 👋
+# Hi I'm Azka! 👋
 
 I'm Azka, an aspiring software engineer passionate about sustainability, data, AI, and more. 
+
+Previously
+Developer @ The Fregenet Foundation
+Project Intern @ Youth Culture
+IOS Dev @ Our Wave Hub
+
+About Me
+🔭 Going deep into ML specifically deep learning
+🌱 Obsessed with Blockchain and Web 3 development
+😄 Pronouns: She/Her
 
 ### My Tech Stack 💻
 Languages  <br>  <br> 
