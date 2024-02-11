@@ -13,7 +13,6 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
 - 🔭 Going deep into ML specifically deep learning 
 - 👩‍💻 Doing research @ UofT on smart grid security systems and anomaly detection using machine learning
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love experimenting with recipes and run my own small-baking business on the side! 
 
 ### My Tech Stack 💻
 Languages  <br>  <br> 
