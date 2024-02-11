@@ -11,7 +11,6 @@ I'm Azka, an aspiring software engineer passionate about sustainability, data, A
 
 #### About Me 
 - 🔭 Going deep into ML specifically deep learning 
-- 🌱 Learning more about Blockchain and Web 3 development
 - 👩‍💻 Doing research @ UofT on smart grid security systems and anomaly detection using machine learning
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love experimenting with recipes and run my own small-baking business on the side! 
