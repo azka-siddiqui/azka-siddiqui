@@ -1,5 +1,26 @@
-## 👋 Hi there, I'm Azka
+<p align="center"><em>hey there!</em> i'm</p>
 
-- Welcome to my GitHub profile! I am a **Computer Engineering student at the University of Waterloo** interested in exploring all areas of software development.
-- 🔍 Currently seeking **Summer 2026 internship** opportunities.
-- 💼 Previously interned at **Nokia** as a *FutureTech Intern* on the **Fault Management** team.
+<h1 align="center">
+  <img src="IMG_8044-removebg-preview.png" width="21"/>
+  Azka Siddiqui
+  <img src="IMG_8045-removebg-preview.png" width="21"/>
+</h1>
+
+ce @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
+- 🌱 interested in human-computer interaction and ml/ai; specifically ai-assistive tools -- i create for people ♥
+- 🌱 prev high school software engineering intern [@Nokia](https://www.nokia.com/ip-networks/network-services-platform/)
+
+<div style="display: flex; justify-content: space-between; width: 100;">
+  <div style="display: block">
+<!--     <a href="azkasiddiqui240@gmail.com">
+      <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    </a> -->
+    <a href="https://www.linkedin.com/in/azkasiddiqui/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:azkasiddiqui240@gmail.com?subject=Request%20for%20Resume&body=Hi%20Azka,%0D%0A%0D%0A%0D%0A[Your%20Name]">
+      <img src="https://img.shields.io/badge/request%20my%20resume-56744E.svg?style=flat-square&logo=readme&logoColor=white" alt="Request My Resume">
+    </a>
+    
+  </div>
+</div>
