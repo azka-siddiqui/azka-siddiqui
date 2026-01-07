@@ -1,3 +1,7 @@
+<table align="center" width="100%" cellpadding="20" cellspacing="0">
+  <tr>
+    <td bgcolor="#E6D9FF">
+
 <p align="center"><em>hey there!</em> i'm</p>
 
 <h1 align="center">
@@ -10,7 +14,7 @@ ce @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
 - interested in software for social good, ml/ai, & accessible coding education
 - prev high school software engineering intern [@Nokia](https://www.nokia.com/ip-networks/network-services-platform/)
 
-<div style="display: flex; justify-content: space-between; width: 100;">
+<div style="display: flex; justify-content: space-between; width: 100%;">
   <div style="display: block">
 <!--     <a href="azkasiddiqui240@gmail.com">
       <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
@@ -19,8 +23,11 @@ ce @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:azkasiddiqui240@gmail.com?subject=Request%20for%20Resume&body=Hi%20Azka,%0D%0A%0D%0A%0D%0A[Your%20Name]">
-      <img src="https://img.shields.io/badge/request%20my%20resume-56744E.svg?style=flat-square&logo=readme&logoColor=white" alt="Request My Resume">
+      <img src="https://img.shields.io/badge/request%20my%20resume-C9E4DE.svg?style=flat-square&logo=readme&logoColor=white" alt="Request My Resume">
     </a>
-    
   </div>
 </div>
+
+    </td>
+  </tr>
+</table>
