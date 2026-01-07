@@ -1,14 +1,14 @@
 <p align="center"><em>hey there!</em> i'm</p>
 
 <h1 align="center">
-  <img src="IMG_8044-removebg-preview.png" width="21"/>
+  <img src="flower-pixel-art.png" width="21"/>
   Azka Siddiqui
-  <img src="IMG_8045-removebg-preview.png" width="21"/>
+  <img src="flower-pixel-art.png" width="21"/>
 </h1>
 
 ce @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
-- 🌱 interested in human-computer interaction and ml/ai; specifically ai-assistive tools -- i create for people ♥
-- 🌱 prev high school software engineering intern [@Nokia](https://www.nokia.com/ip-networks/network-services-platform/)
+- interested in software for social good, ml/ai, & accessible coding education
+- prev high school software engineering intern [@Nokia](https://www.nokia.com/ip-networks/network-services-platform/)
 
 <div style="display: flex; justify-content: space-between; width: 100;">
   <div style="display: block">
