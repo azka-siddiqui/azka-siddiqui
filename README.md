@@ -10,6 +10,7 @@
 ce @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
 - interested in software for social good, ml/ai, & accessible coding education
 - prev high school software engineering intern (FutureTech) [@Nokia](https://www.nokia.com/)
+- i’m always open to new ideas, projects, and conversations. if you’re working on something inspiring or want to collaborate, let’s connect at azka.siddiqui@uwaterloo.ca!
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <div style="display: block">
