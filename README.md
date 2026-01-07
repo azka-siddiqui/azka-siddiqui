@@ -1,6 +1,3 @@
-<table align="center" width="100%" cellpadding="20" cellspacing="0">
-  <tr>
-    <td bgcolor="#E6D9FF">
 
 <p align="center"><em>hey there!</em> i'm</p>
 
@@ -27,7 +24,3 @@ ce @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
     </a>
   </div>
 </div>
-
-    </td>
-  </tr>
-</table>
