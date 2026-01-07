@@ -9,7 +9,7 @@
 
 ce @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
 - interested in software for social good, ml/ai, & accessible coding education
-- prev high school software engineering intern [@Nokia](https://www.nokia.com/ip-networks/network-services-platform/)
+- prev high school software engineering intern (FutureTech) [@Nokia](https://www.nokia.com/)
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <div style="display: block">
