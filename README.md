@@ -2,9 +2,7 @@
 <p align="center"><em>hey there!</em> i'm</p>
 
 <h1 align="center">
-  <img src="flower-pixel-art.png" width="21"/>
   Azka Siddiqui
-  <img src="flower-pixel-art.png" width="21"/>
 </h1>
 
 ce @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
