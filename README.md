@@ -8,7 +8,7 @@
 ce @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
 - Currently studying Computer Engineering at the University of Waterloo on a Schulich Leader Scholarship, pursuing my interests in software, embedded systems, and controls. I’m especially drawn to projects that sit at the intersection of software and hardware.
 - Interested in software for social good, ml/ai, & accessible coding education
-- I’m always open to new ideas, projects, and conversations. if you’re working on something inspiring or want to collaborate, let’s connect at azka.siddiqui@uwaterloo.ca!
+- I’m always open to new ideas, projects, and conversations. If you’re working on something inspiring or want to collaborate, reach out at azka.siddiqui@uwaterloo.ca!
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <div style="display: block">
